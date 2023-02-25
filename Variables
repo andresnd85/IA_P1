@@ -3,6 +3,7 @@ mensaje = "Hola Mundo, soy Andres Navarro" #Declaramos nuestra variable tipo de 
 mensaje2 = 800 #Declaramos la variable numerica 
 
 print (mensaje) #Imprimimos la variable de tipo de texto
-
-print (mensaje2 + 200)#Imprimimos la variable numerica y le sumamos 200
-#NOTA: No se pueden sumar variables numericas a las tipo de texto 
+print (mensaje2 + 200) #Imprimimos la variable numerica y le sumamos 200
+print (mensaje2 * 200) #Imprimimos la variable numerica y le multiplicamos por 200
+print (mensaje2 / 200) #Imprimimos la variable numerica y le dividimos entre 200
+print (mensaje2 - 200) #Imprimimos la variable numerica y le restamos 200
