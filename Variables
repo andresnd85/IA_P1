@@ -1,0 +1,8 @@
+mensaje = "Hola Mundo, soy Andres Navarro" #Declaramos nuestra variable tipo de texto
+
+mensaje2 = 800 #Declaramos la variable numerica 
+
+print (mensaje) #Imprimimos la variable de tipo de texto
+
+print (mensaje2 + 200)#Imprimimos la variable numerica y le sumamos 200
+#NOTA: No se pueden sumar variables numericas a las tipo de texto 
