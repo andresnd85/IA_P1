@@ -1,0 +1,9 @@
+# IA_P1
+Practicas del primer parcial 
+Texto = "Mira lo que puedo 'imprimir'" 
+Texto2 = 'Tambien lo puedo hacer "asi"'
+
+#EL USO DE LAS COMILLAS O COMILLA SENSCINLLA PUEDE USARSE SIEMPRE Y CUANDO NO SE MEZCLEN ENTRE ELLAS
+
+print(Texto)
+print(Texto2)
