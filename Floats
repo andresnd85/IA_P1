@@ -1,0 +1,14 @@
+# IA_P1
+Practicas del primer parcial 
+
+num = 48.2955
+num2 = 599.26592
+
+suma = num + num2
+resta = num - num2
+multiplicacion = num * num2
+division = num / num2
+
+#Con la funcion  round podremos hacer como si fuera el fix en la calculadora
+
+print("\tResultados Indivicuales\n-Suma", round(suma,3), "\n-Resta", round(resta,3),"\n-Multiplicacion", round(multiplicacion,3), "\n-Division", round(division,3))
