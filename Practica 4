@@ -1,0 +1,8 @@
+# IA_P1
+Practicas del primer parcial 
+
+Primera = "eSta eS UNa pRUeba dE lAS fUNcioNes"
+
+print(Primera.title())#La funcion title nos ayuda a hacer que las primeras letras sena mayusculas 
+print(Primera.upper())#La funcion Upper vuelve todo mayuscula 
+print(Primera.lower())#Esta funcion convierte las letras en minusculas
