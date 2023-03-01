@@ -1,0 +1,7 @@
+# IA_P1
+Practicas del primer parcial 
+
+print("Cosas por hacer\n\t-Debo de comer\n\t-Debo de hacer tarea de IA\n\t-Debo dormir\n\t")
+
+#Usar \n nos ayuda a hacer un salto de liena en el mismo print
+#Usar \t nos ayuda a obtener una tabulacion en nuestro print
