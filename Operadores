@@ -1,0 +1,14 @@
+# IA_P1
+Practicas del primer parcial 
+
+#Podremos ver las operaciones basicas aqui 
+suma = 59+89
+resta = 744-677
+multiplicacion = 7*23
+division = 75/3
+
+#En nuestro primer print nos damos cuenta como es que usamos las comas para contatenar datos numerico 
+print("\tResultados Indivicuales\n-Suma", suma, "\n-Resta", resta,"\n-Multiplicacion", multiplicacion, "\n-Division", division)
+
+#A diferencia que en el ultimo hacemos una suma de todas nuestras variables usando el +
+print("Resultado Final:", suma + resta + multiplicacion + division )
