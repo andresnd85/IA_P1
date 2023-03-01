@@ -7,3 +7,4 @@ print (mensaje2 + 200) #Imprimimos la variable numerica y le sumamos 200
 print (mensaje2 * 200) #Imprimimos la variable numerica y le multiplicamos por 200
 print (mensaje2 / 200) #Imprimimos la variable numerica y le dividimos entre 200
 print (mensaje2 - 200) #Imprimimos la variable numerica y le restamos 200
+ 
