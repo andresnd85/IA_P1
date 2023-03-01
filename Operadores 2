@@ -1,0 +1,9 @@
+# IA_P1
+Practicas del primer parcial 
+
+#Utilizando ** podremos hacer el elevado de un numero 
+
+ejemplo = 15 ** 2
+ejemplo2 = 15 ** 3
+
+print("\tEjemplo\n15 a el cuadrado:", ejemplo, "\n15 a el cubo:", ejemplo2)
