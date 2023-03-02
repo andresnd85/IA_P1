@@ -5,3 +5,4 @@ Practicas del primer parcial
 pendientes = [ 'Hacer tarea de IA','Comer tacos']
 
 print(pendientes[0])
+ 
