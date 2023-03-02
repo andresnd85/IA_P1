@@ -1,0 +1,10 @@
+# IA_P1
+Practicas del primer parcial 
+
+
+#Para poder acceder a los ultimos digitos de las listas utilizamos los nimeros negativos
+materias = ['CONTROL','INGLES','ECONOMIA','PLC','VIBRACIONES','IA','MICROS']
+
+
+print("\tLa ultima materia es:\t" + materias[-1])
+print("\tLa penultima materia es:\t" + materias[-2])
