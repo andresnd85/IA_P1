@@ -1,0 +1,7 @@
+# IA_P1
+Practicas del primer parcial 
+
+#Las listas nos ayudan a almacenar varias variables y hacer uso de ellas en el momento que sea necesario 
+pendientes = [ 'Hacer tarea de IA','Comer tacos']
+
+print(pendientes[0])
