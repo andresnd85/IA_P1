@@ -1,0 +1,9 @@
+# IA_P1
+Practicas del primer parcial 
+
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'marron', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
+
+colores.append("celeste")
+colores.append("flex")
+
+print("La lista modificada es:\t",colores)
