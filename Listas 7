@@ -1,0 +1,10 @@
+# IA_P1
+Practicas del primer parcial 
+
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'marron', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
+
+#La funcion insert nos ayuda a agregar un elemnto a nuestras listas en la posicion que queramos 
+colores.insert(6,"magenta")
+colores.insert(-1,"turquesa")
+
+print(colores)
