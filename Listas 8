@@ -1,0 +1,9 @@
+# IA_P1
+Practicas del primer parcial 
+
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'marron','lila', 'negro', 'rosa', 'blanco', 'naranja']
+
+#Sort nos ayuda a acomodarlo de manera alfabetica y si agregamos el reverse=True lo podemos hacer de modo asendente 
+colores.sort(reverse=True)
+
+print(colores)
