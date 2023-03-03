@@ -1,0 +1,8 @@
+# IA_P1
+Practicas del primer parcial 
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'marrón', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
+
+#Con esto es posible convertir las tuplas en listas 
+colores = list(colores)
+
+print(colores)
