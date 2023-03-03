@@ -1,0 +1,8 @@
+# IA_P1
+Practicas del primer parcial 
+
+lugares = ("mexico","tulum", "Italia","ucrania","venezuela","usa","canada","toronto","michoacan","real","puerto rico","habana","jalisco")
+
+#Len nos ayuda a contar la cantidad de datos guardados a nuestra variable 
+
+print(len(lugares))
