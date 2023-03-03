@@ -1,0 +1,9 @@
+# IA_P1
+Practicas del primer parcial 
+
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
+#La funcion remove nos ayuda a eliminar un elemento en especifico 
+colores.remove("rojo")
+colores.remove("amarillo")
+
+print(colores)
