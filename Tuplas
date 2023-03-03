@@ -1,0 +1,9 @@
+# IA_P1
+Practicas del primer parcial 
+
+
+colores = ('rojo', 'azul', 'verde', 'amarillo', 'marron', 'lila', 'negro', 'rosa', 'blanco', 'naranja')
+numeros = (10, 1, 5, 11)
+
+print("El color escogido es:\t",colores[1])
+print("\nEl resultado es\t",numeros[0]+numeros[2]+numeros[3]-numeros[1])
