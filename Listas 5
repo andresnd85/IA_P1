@@ -1,0 +1,11 @@
+# IA_P1
+Practicas del primer parcial 
+
+colores = ['rojo', 'azul', 'verde', 'amarillo', 'marron', 'lila', 'negro', 'rosa', 'blanco', 'naranja']
+#La funcion no solo nos permite eliminar un valor de nuestra listo si no que nos permite alamacenarlo en una variable 
+eliminado1 = colores.pop(2)
+eliminado2 = colores.pop(-2)
+
+print ("\tLos colores en la lista son:\t",colores)
+
+print("\n\tLos colores eliminados son:\t",eliminado1,"\t",eliminado2)
