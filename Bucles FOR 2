@@ -1,0 +1,5 @@
+# IA_P1
+Practicas del primer parcial 
+#Este bucle nos hace avanzar desde el 7 hasta el 700 de 100 en 100
+for x in range(7, 800, 100):
+	print(x)
