@@ -1,0 +1,6 @@
+# IA_P1
+Practicas del primer parcial 
+colores = ('rojo','azul','verde','amarillo')
+#Este ciclo for nos imprime todos los valores de esta lista 
+for x in colores:
+    print("El color es: \t", x)
