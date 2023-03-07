@@ -1,0 +1,12 @@
+# IA_P1
+Practicas del primer parcial 
+
+
+color = "rojo"
+
+#Es importante los dos puntos despues del if 
+#Importante saber que el else va despues del if y solo lleva la impresion directa sin ninguna indicacion 
+if color != "rojo":
+    print ("El color no es rojo.")
+else:    
+    print ("El color es rojo.")
