@@ -1,0 +1,16 @@
+# IA_P1
+Practicas del primer parcial 
+
+teclado1 = {
+	'Categoría': 'Teclados',
+	'Modelo': 'HyperX Alloy FPS Pro',
+	'Precio': '89,99'
+}
+#Estos diccionarios nos perniten almacenar diferente informacion de un mismo producto 
+teclado2 = {
+	'Categoría': 'Teclados',
+	'Modelo': 'Corsair K55 RGB',
+	'Precio': '59,99'
+}
+
+print('El modelo', teclado2['Modelo'], 'cuesta', teclado2['Precio'], '$.')
