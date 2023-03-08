@@ -1,0 +1,8 @@
+# IA_P1
+Practicas del primer parcial 
+
+def suma(*args):
+	resultado = args[0] + args[1] + args[2] + args[3] + args[4]
+	print("La respuesta es:\t", resultado)
+
+suma(1985,23,70,5,7)
