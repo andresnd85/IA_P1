@@ -2,7 +2,7 @@
 Practicas del primer parcial 
 
 
-color = "rojo"
+color = "rojo" 
 
 #Es importante los dos puntos despues del if 
 #Importante saber que el else va despues del if y solo lleva la impresion directa sin ninguna indicacion 
